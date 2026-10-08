@@ -26,5 +26,6 @@
 | [Watermarkly](https://watermarkly.com/compress-jpeg/) | Private, client-side compression of JPEG images. The app does not send images to a server for processing. |
 | [Jpeg.io](https://www.jpeg.io) | Convert any major image format into a highly optimized JPEG |
 | [CompressImage.io](https://compressimage.io) | Compress JPG and PNG images. No Limits. Bulk Conversion. Convert to WebP. Works Offline |
+| [SnapShrink](https://getsnapshrink.com/)| Free in-browser image compressor with exact-KB targeting and batch ZIP download. No uploads, no signup |
 
 [↑ Back to Top](#top)
